@@ -55,7 +55,7 @@ passlib==1.7.1
 pathspec==0.6.0
 poyo==0.5.0
 prettytable==0.7.2
-psutil==5.6.3
+psutil==5.6.6
 pyats==19.9.2
 pyats.aereport==19.9
 pyats.aetest==19.9.1

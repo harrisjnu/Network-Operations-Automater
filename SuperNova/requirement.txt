@@ -42,7 +42,7 @@ jinja2-time==0.2.0
 jsonpickle==1.2
 junit-xml==1.8
 junos-eznc==2.2.1
-lxml==4.4.1
+lxml==4.6.5
 MarkupSafe==1.1.1
 multidict==4.5.2
 napalm==2.5.0

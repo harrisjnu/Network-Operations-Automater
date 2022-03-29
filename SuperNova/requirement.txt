@@ -50,7 +50,7 @@ ncclient==0.6.6
 netaddr==0.7.19
 netmiko==2.4.2
 nxapi-plumbing==0.5.2
-paramiko==2.6.0
+paramiko==2.10.1
 passlib==1.7.1
 pathspec==0.6.0
 poyo==0.5.0
